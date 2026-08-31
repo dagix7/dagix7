@@ -1,8 +1,8 @@
 # 💫 About Me:
-I am currently working on web development  and networking<br>I am currently learning app development
+I am currently working on full-stack web projects using NextJs and NestJs<br>I am currently exploring AI/ML
 
 
-## 🌐 Socials:
+## 🌐 Socials: 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dagimasnake388@gmail.com) 
 
 # 💻 Tech Stack:
